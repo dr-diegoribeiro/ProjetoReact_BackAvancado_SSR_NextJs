@@ -1,0 +1,22 @@
+
+.background{
+  background-image: url("./img1.jpg");
+  height: 100%;
+  width: 100%;
+
+}
+
+.h2{
+  font-size: 22px;
+  color:white;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 3%;
+  padding-right: 5%;
+}
+
+.label{
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 3%;
+}
+
